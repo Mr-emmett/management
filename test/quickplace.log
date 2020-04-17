@@ -1,0 +1,33 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : abc.brd                                       )
+(    Software Version : 16.6-2015S112                                 )
+(    Date/Time        : Thu Nov 28 10:40:01 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  U7 / RFFC2071_QFN_32T_0R5P5R07SPR0R8 / QFN_32T_0R5P5R07SPR0R85X0R25_A at (9238.00 10038.00)
+         Placed symbol:  U2 / AD9834_TSSOP_20_0R65P5R94SPR1R7 / TSSOP_20_0R65P5R94SPR1R78X0R38 at (9513.80 10064.00)
+         Placed symbol:  D1 / AD668_DIP16_C_AD668_15000000003 / DIP16_C at (9736.77 9950.32)
+         Placed symbol:  U6 / LTC2862A_QFN_8T_0R5P2R915SPR0R7 / QFN_8T_0R5P2R915SPR0R75X0R25_A at (10604.42 9990.48)
+         Placed symbol:  U1 / 1685FA_SO_8_1R27P5R26SPR1R95X0R / SO_8_1R27P5R26SPR1R95X0R65 at (10801.20 10062.00)
+         Placed symbol:  U5 / HCPL-5150_DIP_8_2R54P7R79SPC1R3 / DIP_8_2R54P7R79SPC1R358D0R85 at (11226.50 9706.00)
+         Placed symbol:  U3 / ADM3483E_SOIC_8_1R27P5R24SPR1R9 / SOIC_8_1R27P5R24SPR1R97X0R65 at (11114.30 9361.00)
+         Placed symbol:  N1 / HSG28D15_2_DCDC-10V_HSG28D15_2_ / DCDC-10V at (9543.34 8154.09)
+         Placed symbol:  G1 / TP_CRYSTAL_OSCSC4Q0720X0520X018 / OSCSC4Q0720X0520X0180MM at (11165.48 9063.20)
+         Placed symbol:  U4 / BGA7024_SOT89_3_1R5P_PR1R55X0R7 / SOT89_3_1R5P_PR1R55X0R7 at (11126.96 8816.85)
+         Placed symbol:  C2 / CAPACITOR_0_CAPC0603_0090MM_3_C / CAPC0603_0090MM_3 at (11072.96 8674.84)
+         Placed symbol:  L1 / INDUCTOR_BEAD_2_RESC0603_0060MM / RESC0603_0060MM_1 at (10056.30 8558.54)
+         Placed symbol:  D2 / DIODE_D2-10A_DIODE_150000000056 / D2-10A at (10208.00 8483.73)
+         Placed symbol:  C1 / CAPACITOR_1_CAPC0805_0135MM_1_C / CAPC0805_0135MM_1 at (10761.27 8550.66)
+
+
+Placed 14 of 14 applicable (14 total) symbols.
+
+-----------------------------------------------------------------------
+

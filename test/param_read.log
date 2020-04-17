@@ -1,0 +1,28 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Parameter File READ                                              )
+(                                                                     )
+(    Drawing          : test01.brd                                    )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Fri Oct 18 15:25:23 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+	Paramfile Name : E:/color_set20190910.prm
+	Layout Name   : test01.brd
+
+Reading...parameter_header:
+Reading...db_common_type:
+Reading...grid_parms_type:
+Reading...UnusedPadsSuppressionSettings:
+Reading...color_table_table:
+Reading...ColorParmType:
+Reading...text_size_table:
+Reading...ats_parm_type:
+Reading...ministat_parm_type:
+Reading...ifp_parm_type:
+
+
+..... Total number of errors: 0.
+..... Total number of warnings: 0.

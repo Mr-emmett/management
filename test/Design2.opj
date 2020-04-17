@@ -1,0 +1,126 @@
+(ExpressProject "Design2"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\design2.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "E:\TEST")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" "allegro\DESIGN2.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0"))
+  (Folder "Outputs"
+    (File ".\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (AD668
+      (FullPartName "AD668.Normal")
+      (LibraryName "E:\203\CMS_CLIENT203\CMS_SERVER\CDS\CDSSYM\TEST.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR_D4
+      (FullPartName "RESISTOR_D4.Normal")
+      (LibraryName "E:\203\CMS_CLIENT203\CMS_SERVER\CDS\CDSSYM\TEST.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR_0
+      (FullPartName "RESISTOR_0.Normal")
+      (LibraryName "E:\203\CMS_CLIENT203\CMS_SERVER\CDS\CDSSYM\TEST.OLB")
+      (DeviceIndex "0"))
+    (RFFC2071
+      (FullPartName "RFFC2071.Normal")
+      (LibraryName "E:\203\CMS_CLIENT203\CMS_SERVER\CDS\CDSSYM\IC.OLB")
+      (DeviceIndex "0"))
+    (MMG38151B
+      (FullPartName "MMG38151B.Normal")
+      (LibraryName "E:\203\CMS_CLIENT203\CMS_SERVER\CDS\CDSSYM\IC.OLB")
+      (DeviceIndex "0"))
+    (CAPACITOR_0
+      (FullPartName "CAPACITOR_0.Normal")
+      (LibraryName "E:\203\CMS_CLIENT203\CMS_SERVER\CDS\CDSSYM\TEST.OLB")
+      (DeviceIndex "0"))
+    (MT28515T
+      (FullPartName "MT28515T.Normal")
+      (LibraryName "E:\203\CMS_CLIENT203\CMS_SERVER\CDS\CDSSYM\TEST.OLB")
+      (DeviceIndex "0"))
+    (HSG28D15_2
+      (FullPartName "HSG28D15_2.Normal")
+      (LibraryName "E:\203\CMS_CLIENT203\CMS_SERVER\CDS\CDSSYM\TEST.OLB")
+      (DeviceIndex "0"))
+    (INDUCTOR_BEAD_1
+      (FullPartName "INDUCTOR_BEAD_1.Normal")
+      (LibraryName "E:\203\CMS_CLIENT203\CMS_SERVER\CDS\CDSSYM\TEST.OLB")
+      (DeviceIndex "0"))
+    (J30J_66ZKW_J_1
+      (FullPartName "J30J_66ZKW_J_1.Normal")
+      (LibraryName "E:\203\CMS_CLIENT203\CMS_SERVER\CDS\CDSSYM\TEST.OLB")
+      (DeviceIndex "0"))
+    (MMG20241H
+      (FullPartName "MMG20241H.Normal")
+      (LibraryName "E:\203\CMS_CLIENT203\CMS_SERVER\CDS\CDSSYM\IC.OLB")
+      (DeviceIndex "0"))
+    (ADP-2-1+
+      (FullPartName "ADP-2-1+.Normal")
+      (LibraryName "E:\203\CMS_CLIENT203\CMS_SERVER\CDS\CDSSYM\IC.OLB")
+      (DeviceIndex "0"))
+    (BGA2870
+      (FullPartName "BGA2870.Normal")
+      (LibraryName "E:\203\CMS_CLIENT203\CMS_SERVER\CDS\CDSSYM\IC.OLB")
+      (DeviceIndex "0"))
+    (ADM1487E
+      (FullPartName "ADM1487E.Normal")
+      (LibraryName "E:\203\CMS_CLIENT203\CMS_SERVER\CDS\CDSSYM\IC.OLB")
+      (DeviceIndex "0"))
+    (MAX708S_SO8
+      (FullPartName "MAX708S_SO8.Normal")
+      (LibraryName "E:\203\CMS_CLIENT203\CMS_SERVER\CDS\CDSSYM\TEST.OLB")
+      (DeviceIndex "0"))
+    (CAPACITOR_P_3
+      (FullPartName "CAPACITOR_P_3.Normal")
+      (LibraryName "E:\203\CMS_CLIENT203\CMS_SERVER\CDS\CDSSYM\TEST.OLB")
+      (DeviceIndex "0"))
+    (CAPACITOR_P_0
+      (FullPartName "CAPACITOR_P_0.Normal")
+      (LibraryName "E:\203\CMS_CLIENT203\CMS_SERVER\CDS\CDSSYM\TEST.OLB")
+      (DeviceIndex "0"))
+    (CAPACITOR_1
+      (FullPartName "CAPACITOR_1.Normal")
+      (LibraryName "E:\203\CMS_CLIENT203\CMS_SERVER\CDS\CDSSYM\TEST.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "e:\test\design2.dsn")
+      (Path "Design Resources" "e:\test\design2.dsn" "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources" "e:\test\design2.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 213"))
+      (Tab 0)))
+  (MPSSessionName "40375")
+  (ISPCBBASICLICENSE "false"))

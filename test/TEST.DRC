@@ -1,0 +1,53 @@
+Date and Time : 10/17/19 12:00:51
+
+--------------------------------------------------
+Checking Schematic: BBB
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING(ORCAP-1829): Possible pin type conflict X  Input Port Connected to Bidirectional
+                    BBB, PAGE1  (1.30, 0.20) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net X 
+                    BBB, PAGE1  (8.70, 0.20) 
+WARNING(ORCAP-1829): Possible pin type conflict X  Input Port Connected to Bidirectional
+                    BBB, PAGE1  (8.70, 0.20) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,TX  Bidirectional Connected to Input Port
+                    BBB, PAGE1  (3.70, 1.30) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,RX  Bidirectional Connected to Input Port
+                    BBB, PAGE1  (3.70, 1.10) 
+WARNING(ORCAP-1829): Possible pin type conflict Y  Output Port Connected to Bidirectional
+                    BBB, PAGE1  (8.70, 0.50) 
+WARNING(ORCAP-1829): Possible pin type conflict Y  Output Port Connected to Bidirectional
+                    BBB, PAGE1  (8.70, 0.80) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,ANT  Bidirectional Connected to Output Port
+                    BBB, PAGE1  (5.10, 1.40) 
+WARNING(ORCAP-1608): Net has no driving source PORTLEFT-L 
+                    BBB, PAGE1  (1.40, 0.90) 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): Net has fewer than two connections PORTLEFT-L 
+                    BBB, PAGE1  (1.40, 0.90) 
+
+Checking For Unconnected Bus Nets
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING(ORCAP-1829): Possible pin type conflict Z1,ANT,PORT1  Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (6.00, 3.30) 
+WARNING(ORCAP-1829): Possible pin type conflict Z1,GND  Power Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (6.00, 3.10) 
+WARNING(ORCAP-1829): Possible pin type conflict Z1,TX/RX,PORT2  Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (4.00, 3.20) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,Antena  Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (4.30, 4.30) 
+WARNING(ORCAP-1829): Possible pin type conflict Z1,GND  Power Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (4.00, 3.10) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,TX#2  Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (3.60, 6.10) 
+WARNING(ORCAP-1831): Unconnected pin AAA,X 
+                    SCHEMATIC1, PAGE2  (3.60, 1.80) 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets

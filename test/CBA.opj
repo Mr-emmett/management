@@ -1,0 +1,38 @@
+(ExpressProject "CBA"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\cba.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\cba.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" "e:\test\cba.olb")
+      (Select "Design Resources" "Library"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 150"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1227 0 93")
+        (Scroll "-104 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "E:\TEST\CBA.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (MPSSessionName "40375"))

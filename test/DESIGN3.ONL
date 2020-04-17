@@ -1,0 +1,1736 @@
+(PCB DESIGN3
+ (description
+  (timeStamp "2019 11 27 03 53 04")
+  (program "CAPTURE.EXE" (Version "16.6.0.d001"))
+  (source "Original data from OrCAD/CAPTURE schematic")
+  (title "")
+  (date "Wednesday, November 27, 2019")
+  (document "E:\\TEST\\DESIGN3.DSN")
+  (revision "")
+  (organization "")
+  (address1 "")
+  (address2 "")
+  (address3 "")
+  (address4 "")
+  (partvaluecombine "{Value}")
+  (pcbfootprintcombine "{PCB Footprint}"))
+ (structure )
+ (placement
+  (component HSG28D15_2
+   (place N1
+    (property 
+     (Part_Number 150000000044)
+     ("PCB Footprint" "dcdc-10v")
+     (timestamp 000002DF)
+     ("Source Package" HSG28D15_2)
+     (Value HSG28D15_2))))
+  (component INDUCTOR_BEAD_2
+   (place L1
+    (property 
+     (Part_Number 150000000052)
+     ("PCB Footprint" resc0603_0060mm_1)
+     (timestamp 000002B6)
+     ("Source Package" INDUCTOR_BEAD_2)
+     (Value INDUCTOR_BEAD_2))))
+  (component CAPACITOR_0
+   (place C2
+    (property 
+     (Part_Number 150000000008)
+     ("PCB Footprint" capc0603_0090mm_3)
+     (timestamp 000001AD)
+     ("Source Package" CAPACITOR_0)
+     (Value CAPACITOR_0))))
+  (component BGA7024
+   (place U4
+    (property 
+     (Part_Number 150000000117)
+     ("PCB Footprint" SOT89_3_1R5P_PR1R55X0R7)
+     (timestamp 00000109)
+     ("Source Package" BGA7024)
+     (Value BGA7024))))
+  (component AD668
+   (place D1
+    (property 
+     (Part_Number 150000000036)
+     ("PCB Footprint" dip16_c)
+     (timestamp 0000029D)
+     ("Source Package" AD668)
+     (Value AD668))))
+  (component CAPACITOR_1
+   (place C1
+    (property 
+     (Part_Number 150000000003)
+     ("PCB Footprint" capc0805_0135mm_1)
+     (timestamp 00000194)
+     ("Source Package" CAPACITOR_1)
+     (Value CAPACITOR_1))))
+  (component TP_CRYSTAL
+   (place G1
+    (property 
+     (Part_Number 150000000042)
+     ("PCB Footprint" oscsc4q0720x0520x0180mm)
+     (timestamp 00000308)
+     ("Source Package" TP_CRYSTAL)
+     (Value TP_CRYSTAL))))
+  (component AD9834
+   (place U2
+    (property 
+     (Part_Number 150000000064)
+     ("PCB Footprint" tssop_20_0r65p5r94spr1r78x0r38)
+     (timestamp 000000AF)
+     ("Source Package" AD9834)
+     (Value AD9834))))
+  (component "HCPL-5150"
+   (place U5
+    (property 
+     (Part_Number 150000000120)
+     ("PCB Footprint" dip_8_2r54p7r79spc1r358d0r85)
+     (timestamp 0000013C)
+     ("Source Package" "HCPL-5150")
+     (Value "HCPL-5150"))))
+  (component LTC2862A
+   (place U6
+    (property 
+     (Part_Number 150000000150)
+     ("PCB Footprint" qfn_8t_0r5p2r915spr0r75x0r25_a)
+     (timestamp 00000175)
+     ("Source Package" LTC2862A)
+     (Value LTC2862A))))
+  (component DIODE
+   (place D2
+    (property 
+     (Part_Number 150000000056)
+     ("PCB Footprint" "d2-10a")
+     (timestamp 00000321)
+     ("Source Package" DIODE)
+     (Value DIODE))))
+  (component RFFC2071
+   (place U7
+    (property 
+     (Part_Number 150000000168)
+     ("PCB Footprint" qfn_32t_0r5p5r07spr0r85x0r25_a)
+     (timestamp 00000242)
+     ("Source Package" RFFC2071)
+     (Value RFFC2071))))
+  (component ADM3483E
+   (place U3
+    (property 
+     (Part_Number 150000000076)
+     ("PCB Footprint" soic_8_1r27p5r24spr1r97x0r65)
+     (timestamp 000000E8)
+     ("Source Package" ADM3483E)
+     (Value ADM3483E))))
+  (component 1685fa
+   (place U1
+    (property 
+     (Part_Number 150000000061)
+     ("PCB Footprint" so_8_1r27p5r26spr1r95x0r65)
+     (timestamp 0000004A)
+     ("Source Package" 1685fa)
+     (Value 1685fa)))))
+ (library
+  (image 1685fa
+   (property 
+    (sourcelib E:\\203\\CMS_CLIENT203\\CMS_SERVER\\CDS\\CDSSYM\\IC.OLB))
+   (pin 999 1
+    (property 
+     (pinname RO)
+     (pintype 2)
+     (Name RO)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Output)
+     ("Net Name" N00805)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname R\\E\\)
+     (pintype 1)
+     (Name R\\E\\)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Bidirectional)
+     ("Net Name" N00817)
+     (Order 1)
+     ("Is No Connect" False)))
+   (pin 999 3
+    (property 
+     (pinname DE)
+     (pintype 1)
+     (Name DE)
+     (Number 3)
+     ("Swap Id" "-1")
+     (Type Bidirectional)
+     ("Net Name" N00832)
+     (Order 2)
+     ("Is No Connect" False)))
+   (pin 999 4
+    (property 
+     (pinname DI)
+     (pintype 0)
+     (Name DI)
+     (Number 4)
+     ("Swap Id" "-1")
+     (Type Input)
+     ("Net Name" N00847)
+     (Order 3)
+     ("Is No Connect" False)))
+   (pin 999 5
+    (property 
+     (pinname GND)
+     (pintype 7)
+     (Name GND)
+     (Number 5)
+     ("Swap Id" "-1")
+     (Type Power)
+     ("Net Name" N00893)
+     (Order 4)
+     ("Is No Connect" False)))
+   (pin 999 6
+    (property 
+     (pinname A)
+     (pintype 2)
+     (Name A)
+     (Number 6)
+     ("Swap Id" "-1")
+     (Type Output)
+     ("Net Name" N00878)
+     (Order 5)
+     ("Is No Connect" False)))
+   (pin 999 7
+    (property 
+     (pinname B)
+     (pintype 2)
+     (Name B)
+     (Number 7)
+     ("Swap Id" "-1")
+     (Type Output)
+     ("Net Name" N00866)
+     (Order 6)
+     ("Is No Connect" False)))
+   (pin 999 8
+    (property 
+     (pinname VDD)
+     (pintype 7)
+     (Name VDD)
+     (Number 8)
+     ("Swap Id" "-1")
+     (Type Power)
+     ("Net Name" N00854)
+     (Order 7)
+     ("Is No Connect" False))))
+  (image AD9834
+   (property 
+    (sourcelib E:\\203\\CMS_CLIENT203\\CMS_SERVER\\CDS\\CDSSYM\\IC.OLB))
+   (pin 999 1
+    (property 
+     (pinname "FS ADJUST")
+     (pintype 1)
+     (Name "FS ADJUST")
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Bidirectional)
+     ("Net Name" N00854)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 17
+    (property 
+     (pinname VIN)
+     (pintype 0)
+     (Name VIN)
+     (Number 17)
+     ("Swap Id" "-1")
+     (Type Input)
+     ("Net Name" N01349)
+     (Order 1)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname REFOUT)
+     (pintype 2)
+     (Name REFOUT)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Output)
+     ("Net Name" N00866)
+     (Order 2)
+     ("Is No Connect" False)))
+   (pin 999 5
+    (property 
+     (pinname DVDD)
+     (pintype 7)
+     (Name DVDD)
+     (Number 5)
+     ("Swap Id" "-1")
+     (Type Power)
+     ("Net Name" DVDD)
+     (Order 3)
+     ("Is No Connect" False)))
+   (pin 999 7
+    (property 
+     (pinname DGND)
+     (pintype 7)
+     (Name DGND)
+     (Number 7)
+     ("Swap Id" "-1")
+     (Type Power)
+     ("Net Name" N00907)
+     (Order 4)
+     ("Is No Connect" False)))
+   (pin 999 8
+    (property 
+     (pinname MCLK)
+     (pintype 0)
+     (Name MCLK)
+     (Number 8)
+     ("Swap Id" "-1")
+     (Type Input)
+     ("Net Name" N00932)
+     (Order 5)
+     ("Is No Connect" False)))
+   (pin 999 14
+    (property 
+     (pinname SCLK)
+     (pintype 0)
+     (Name SCLK)
+     (Number 14)
+     ("Swap Id" "-1")
+     (Type Input)
+     ("Net Name" N01372)
+     (Order 6)
+     ("Is No Connect" False)))
+   (pin 999 13
+    (property 
+     (pinname SDATA)
+     (pintype 0)
+     (Name SDATA)
+     (Number 13)
+     ("Swap Id" "-1")
+     (Type Input)
+     ("Net Name" N01384)
+     (Order 7)
+     ("Is No Connect" False)))
+   (pin 999 15
+    (property 
+     (pinname "FS YNC")
+     (pintype 0)
+     (Name "FS YNC")
+     (Number 15)
+     ("Swap Id" "-1")
+     (Type Input)
+     ("Net Name" N01363)
+     (Order 8)
+     ("Is No Connect" False)))
+   (pin 999 9
+    (property 
+     (pinname FSSELECT)
+     (pintype 0)
+     (Name FSSELECT)
+     (Number 9)
+     ("Swap Id" "-1")
+     (Type Input)
+     ("Net Name" N00945)
+     (Order 9)
+     ("Is No Connect" False)))
+   (pin 999 18
+    (property 
+     (pinname AGND)
+     (pintype 7)
+     (Name AGND)
+     (Number 18)
+     ("Swap Id" "-1")
+     (Type Power)
+     ("Net Name" N01328)
+     (Order 10)
+     ("Is No Connect" False)))
+   (pin 999 19
+    (property 
+     (pinname IOUT)
+     (pintype 2)
+     (Name IOUT)
+     (Number 19)
+     ("Swap Id" "-1")
+     (Type Output)
+     ("Net Name" N01328)
+     (Order 11)
+     ("Is No Connect" False)))
+   (pin 999 4
+    (property 
+     (pinname AVDD)
+     (pintype 7)
+     (Name AVDD)
+     (Number 4)
+     ("Swap Id" "-1")
+     (Type Power)
+     ("Net Name" AVDD)
+     (Order 12)
+     ("Is No Connect" False)))
+   (pin 999 3
+    (property 
+     (pinname COMP)
+     (pintype 1)
+     (Name COMP)
+     (Number 3)
+     ("Swap Id" "-1")
+     (Type Bidirectional)
+     ("Net Name" N00878)
+     (Order 13)
+     ("Is No Connect" False)))
+   (pin 999 6
+    (property 
+     (pinname CAP/2.5V)
+     (pintype 1)
+     (Name CAP/2.5V)
+     (Number 6)
+     ("Swap Id" "-1")
+     (Type Bidirectional)
+     ("Net Name" N00893)
+     (Order 14)
+     ("Is No Connect" False)))
+   (pin 999 10
+    (property 
+     (pinname PSSELECT)
+     (pintype 0)
+     (Name PSSELECT)
+     (Number 10)
+     ("Swap Id" "-1")
+     (Type Input)
+     ("Net Name" N00957)
+     (Order 15)
+     ("Is No Connect" False)))
+   (pin 999 11
+    (property 
+     (pinname RESET)
+     (pintype 0)
+     (Name RESET)
+     (Number 11)
+     ("Swap Id" "-1")
+     (Type Input)
+     ("Net Name" N01414)
+     (Order 16)
+     ("Is No Connect" False)))
+   (pin 999 12
+    (property 
+     (pinname SLEEP)
+     (pintype 0)
+     (Name SLEEP)
+     (Number 12)
+     ("Swap Id" "-1")
+     (Type Input)
+     ("Net Name" N01399)
+     (Order 17)
+     ("Is No Connect" False)))
+   (pin 999 16
+    (property 
+     (pinname "SIGN BIT OUT")
+     (pintype 2)
+     (Name "SIGN BIT OUT")
+     (Number 16)
+     ("Swap Id" "-1")
+     (Type Output)
+     ("Net Name" N01359)
+     (Order 18)
+     ("Is No Connect" False)))
+   (pin 999 20
+    (property 
+     (pinname IOUTB)
+     (pintype 2)
+     (Name IOUTB)
+     (Number 20)
+     ("Swap Id" "-1")
+     (Type Output)
+     ("Net Name" N01321)
+     (Order 19)
+     ("Is No Connect" False))))
+  (image ADM3483E
+   (property 
+    (sourcelib E:\\203\\CMS_CLIENT203\\CMS_SERVER\\CDS\\CDSSYM\\IC.OLB))
+   (pin 999 1
+    (property 
+     (pinname RO)
+     (pintype 2)
+     (Name RO)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Output)
+     ("Net Name" N01321)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname R\\E\\)
+     (pintype 1)
+     (Name R\\E\\)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Bidirectional)
+     ("Net Name" N01328)
+     (Order 1)
+     ("Is No Connect" False)))
+   (pin 999 3
+    (property 
+     (pinname DE)
+     (pintype 1)
+     (Name DE)
+     (Number 3)
+     ("Swap Id" "-1")
+     (Type Bidirectional)
+     ("Net Name" N01349)
+     (Order 2)
+     ("Is No Connect" False)))
+   (pin 999 4
+    (property 
+     (pinname DI)
+     (pintype 0)
+     (Name DI)
+     (Number 4)
+     ("Swap Id" "-1")
+     (Type Input)
+     ("Net Name" N01359)
+     (Order 3)
+     ("Is No Connect" False)))
+   (pin 999 5
+    (property 
+     (pinname GND)
+     (pintype 7)
+     (Name GND)
+     (Number 5)
+     ("Swap Id" "-1")
+     (Type Power)
+     ("Net Name" N01384)
+     (Order 4)
+     ("Is No Connect" False)))
+   (pin 999 6
+    (property 
+     (pinname A)
+     (pintype 0)
+     (Name A)
+     (Number 6)
+     ("Swap Id" "-1")
+     (Type Input)
+     ("Net Name" N01399)
+     (Order 5)
+     ("Is No Connect" False)))
+   (pin 999 7
+    (property 
+     (pinname B)
+     (pintype 0)
+     (Name B)
+     (Number 7)
+     ("Swap Id" "-1")
+     (Type Input)
+     ("Net Name" N01414)
+     (Order 6)
+     ("Is No Connect" False)))
+   (pin 999 8
+    (property 
+     (pinname VCC)
+     (pintype 7)
+     (Name VCC)
+     (Number 8)
+     ("Swap Id" "-1")
+     (Type Power)
+     ("Net Name" N01429)
+     (Order 7)
+     ("Is No Connect" False))))
+  (image BGA7024
+   (property 
+    (sourcelib E:\\203\\CMS_CLIENT203\\CMS_SERVER\\CDS\\CDSSYM\\IC.OLB))
+   (pin 999 1
+    (property 
+     (pinname "VCC(RF)")
+     (pintype 1)
+     (Name "VCC(RF)")
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Bidirectional)
+     ("Net Name" N02222)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname GND)
+     (pintype 7)
+     (Name GND)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Power)
+     ("Net Name" N02376)
+     (Order 1)
+     ("Is No Connect" False)))
+   (pin 999 3
+    (property 
+     (pinname RF_IN)
+     (pintype 0)
+     (Name RF_IN)
+     (Number 3)
+     ("Swap Id" "-1")
+     (Type Input)
+     ("Net Name" N01429)
+     (Order 2)
+     ("Is No Connect" False))))
+  (image "HCPL-5150"
+   (property 
+    (sourcelib E:\\203\\CMS_CLIENT203\\CMS_SERVER\\CDS\\CDSSYM\\IC.OLB))
+   (pin 999 1
+    (property 
+     (pinname N/C#1)
+     (pintype 4)
+     (Name N/C#1)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N00847)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 4
+    (property 
+     (pinname N/C#4)
+     (pintype 4)
+     (Name N/C#4)
+     (Number 4)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N00805)
+     (Order 1)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname ANODE)
+     (pintype 1)
+     (Name ANODE)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Bidirectional)
+     ("Net Name" N00832)
+     (Order 2)
+     ("Is No Connect" False)))
+   (pin 999 3
+    (property 
+     (pinname CATHODE)
+     (pintype 1)
+     (Name CATHODE)
+     (Number 3)
+     ("Swap Id" "-1")
+     (Type Bidirectional)
+     ("Net Name" N00817)
+     (Order 3)
+     ("Is No Connect" False)))
+   (pin 999 5
+    (property 
+     (pinname VEE)
+     (pintype 7)
+     (Name VEE)
+     (Number 5)
+     ("Swap Id" "-1")
+     (Type Power)
+     ("Net Name" N00957)
+     (Order 4)
+     ("Is No Connect" False)))
+   (pin 999 6
+    (property 
+     (pinname VO#6)
+     (pintype 2)
+     (Name VO#6)
+     (Number 6)
+     ("Swap Id" "-1")
+     (Type Output)
+     ("Net Name" N00945)
+     (Order 5)
+     ("Is No Connect" False)))
+   (pin 999 7
+    (property 
+     (pinname VO#7)
+     (pintype 2)
+     (Name VO#7)
+     (Number 7)
+     ("Swap Id" "-1")
+     (Type Output)
+     ("Net Name" N00932)
+     (Order 6)
+     ("Is No Connect" False)))
+   (pin 999 8
+    (property 
+     (pinname VCC)
+     (pintype 7)
+     (Name VCC)
+     (Number 8)
+     ("Swap Id" "-1")
+     (Type Power)
+     ("Net Name" N00907)
+     (Order 7)
+     ("Is No Connect" False))))
+  (image LTC2862A
+   (property 
+    (sourcelib E:\\203\\CMS_CLIENT203\\CMS_SERVER\\CDS\\CDSSYM\\IC.OLB))
+   (pin 999 1
+    (property 
+     (pinname RO)
+     (pintype 2)
+     (Name RO)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Output)
+     ("Net Name" N00969)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname R\\E\\)
+     (pintype 1)
+     (Name R\\E\\)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Bidirectional)
+     ("Net Name" N00981)
+     (Order 1)
+     ("Is No Connect" False)))
+   (pin 999 3
+    (property 
+     (pinname DE)
+     (pintype 1)
+     (Name DE)
+     (Number 3)
+     ("Swap Id" "-1")
+     (Type Bidirectional)
+     ("Net Name" N01006)
+     (Order 2)
+     ("Is No Connect" False)))
+   (pin 999 4
+    (property 
+     (pinname DI)
+     (pintype 0)
+     (Name DI)
+     (Number 4)
+     ("Swap Id" "-1")
+     (Type Input)
+     ("Net Name" N01031)
+     (Order 3)
+     ("Is No Connect" False)))
+   (pin 999 5
+    (property 
+     (pinname GND)
+     (pintype 7)
+     (Name GND)
+     (Number 5)
+     ("Swap Id" "-1")
+     (Type Power)
+     ("Net Name" N01155)
+     (Order 4)
+     ("Is No Connect" False)))
+   (pin 999 6
+    (property 
+     (pinname A)
+     (pintype 0)
+     (Name A)
+     (Number 6)
+     ("Swap Id" "-1")
+     (Type Input)
+     ("Net Name" N01143)
+     (Order 5)
+     ("Is No Connect" False)))
+   (pin 999 7
+    (property 
+     (pinname B)
+     (pintype 0)
+     (Name B)
+     (Number 7)
+     ("Swap Id" "-1")
+     (Type Input)
+     ("Net Name" N01082)
+     (Order 6)
+     ("Is No Connect" False)))
+   (pin 999 8
+    (property 
+     (pinname VCC)
+     (pintype 7)
+     (Name VCC)
+     (Number 8)
+     ("Swap Id" "-1")
+     (Type Power)
+     ("Net Name" N01068)
+     (Order 7)
+     ("Is No Connect" False)))
+   (pin 999 A
+    (property 
+     (pinname EPAD)
+     (pintype 7)
+     (Name EPAD)
+     (Number A)
+     ("Swap Id" "-1")
+     (Type Power)
+     ("Net Name" N01155)
+     (Order 8)
+     ("Is No Connect" False))))
+  (image INDUCTOR_BEAD_2
+   (property 
+    (sourcelib E:\\203\\CMS_CLIENT203\\CMS_SERVER\\CDS\\CDSSYM\\TEST.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)
+     (Name 1)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N01198)
+     (Order 0)
+     ("Is No Connect" False)
+     (NO_LOAD_CHECK Both)
+     (NO_IO_CHECK Both)
+     (NO_ASSERT_CHECK TRUE)
+     (NO_DIR_CHECK TRUE)
+     (ALLOW_CONNECT TRUE)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)
+     (Name 2)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N01228)
+     (Order 1)
+     ("Is No Connect" False)
+     (NO_LOAD_CHECK Both)
+     (NO_IO_CHECK Both)
+     (NO_ASSERT_CHECK TRUE)
+     (NO_DIR_CHECK TRUE)
+     (ALLOW_CONNECT TRUE))))
+  (image RFFC2071
+   (property 
+    (sourcelib E:\\203\\CMS_CLIENT203\\CMS_SERVER\\CDS\\CDSSYM\\IC.OLB))
+   (pin 999 1
+    (property 
+     (pinname ENBL/GPO5)
+     (pintype 1)
+     (Name ENBL/GPO5)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Bidirectional)
+     ("Net Name" N01985)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname EXT_LO)
+     (pintype 0)
+     (Name EXT_LO)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Input)
+     ("Net Name" N01992)
+     (Order 1)
+     ("Is No Connect" False)))
+   (pin 999 3
+    (property 
+     (pinname EXT_LO_DEC)
+     (pintype 1)
+     (Name EXT_LO_DEC)
+     (Number 3)
+     ("Swap Id" "-1")
+     (Type Bidirectional)
+     ("Net Name" N01992)
+     (Order 2)
+     ("Is No Connect" False)))
+   (pin 999 4
+    (property 
+     (pinname REXT)
+     (pintype 1)
+     (Name REXT)
+     (Number 4)
+     ("Swap Id" "-1")
+     (Type Bidirectional)
+     ("Net Name" N01992)
+     (Order 3)
+     ("Is No Connect" False)))
+   (pin 999 5
+    (property 
+     (pinname ANA_VDD1)
+     (pintype 7)
+     (Name ANA_VDD1)
+     (Number 5)
+     ("Swap Id" "-1")
+     (Type Power)
+     ("Net Name" N02004)
+     (Order 4)
+     ("Is No Connect" False)))
+   (pin 999 6
+    (property 
+     (pinname LFILT1)
+     (pintype 2)
+     (Name LFILT1)
+     (Number 6)
+     ("Swap Id" "-1")
+     (Type Output)
+     ("Net Name" N02004)
+     (Order 5)
+     ("Is No Connect" False)))
+   (pin 999 7
+    (property 
+     (pinname LFILT2)
+     (pintype 2)
+     (Name LFILT2)
+     (Number 7)
+     ("Swap Id" "-1")
+     (Type Output)
+     ("Net Name" N02011)
+     (Order 6)
+     ("Is No Connect" False)))
+   (pin 999 8
+    (property 
+     (pinname LFILT3)
+     (pintype 0)
+     (Name LFILT3)
+     (Number 8)
+     ("Swap Id" "-1")
+     (Type Input)
+     ("Net Name" N02015)
+     (Order 7)
+     ("Is No Connect" False)))
+   (pin 999 9
+    (property 
+     (pinname MODE/GPO6)
+     (pintype 1)
+     (Name MODE/GPO6)
+     (Number 9)
+     ("Swap Id" "-1")
+     (Type Bidirectional)
+     ("Net Name" N01303)
+     (Order 8)
+     ("Is No Connect" False)))
+   (pin 999 10
+    (property 
+     (pinname REF_IN)
+     (pintype 0)
+     (Name REF_IN)
+     (Number 10)
+     ("Swap Id" "-1")
+     (Type Input)
+     ("Net Name" N01303)
+     (Order 9)
+     ("Is No Connect" False)))
+   (pin 999 11
+    (property 
+     (pinname NC#11)
+     (pintype 4)
+     (Name NC#11)
+     (Number 11)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N01303)
+     (Order 10)
+     ("Is No Connect" False)))
+   (pin 999 12
+    (property 
+     (pinname TM)
+     (pintype 7)
+     (Name TM)
+     (Number 12)
+     ("Swap Id" "-1")
+     (Type Power)
+     ("Net Name" N01303)
+     (Order 11)
+     ("Is No Connect" False)))
+   (pin 999 13
+    (property 
+     (pinname MIX1_IPN)
+     (pintype 0)
+     (Name MIX1_IPN)
+     (Number 13)
+     ("Swap Id" "-1")
+     (Type Input)
+     ("Net Name" N01303)
+     (Order 12)
+     ("Is No Connect" False)))
+   (pin 999 14
+    (property 
+     (pinname MIX1_IPP)
+     (pintype 0)
+     (Name MIX1_IPP)
+     (Number 14)
+     ("Swap Id" "-1")
+     (Type Input)
+     ("Net Name" N01303)
+     (Order 13)
+     ("Is No Connect" False)))
+   (pin 999 15
+    (property 
+     (pinname GPO1/ADD1)
+     (pintype 1)
+     (Name GPO1/ADD1)
+     (Number 15)
+     ("Swap Id" "-1")
+     (Type Bidirectional)
+     ("Net Name" N01303)
+     (Order 14)
+     ("Is No Connect" False)))
+   (pin 999 16
+    (property 
+     (pinname GPO2/ADD2)
+     (pintype 1)
+     (Name GPO2/ADD2)
+     (Number 16)
+     ("Swap Id" "-1")
+     (Type Bidirectional)
+     ("Net Name" N01303)
+     (Order 15)
+     ("Is No Connect" False)))
+   (pin 999 17
+    (property 
+     (pinname MIX1_OPN)
+     (pintype 2)
+     (Name MIX1_OPN)
+     (Number 17)
+     ("Swap Id" "-1")
+     (Type Output)
+     ("Net Name" N02222)
+     (Order 16)
+     ("Is No Connect" False)))
+   (pin 999 18
+    (property 
+     (pinname MIX1_OPP)
+     (pintype 2)
+     (Name MIX1_OPP)
+     (Number 18)
+     ("Swap Id" "-1")
+     (Type Output)
+     ("Net Name" N02222)
+     (Order 17)
+     ("Is No Connect" False)))
+   (pin 999 19
+    (property 
+     (pinname DIG_VDD)
+     (pintype 7)
+     (Name DIG_VDD)
+     (Number 19)
+     ("Swap Id" "-1")
+     (Type Power)
+     ("Net Name" N02222)
+     (Order 18)
+     ("Is No Connect" False)))
+   (pin 999 20
+    (property 
+     (pinname NC#20)
+     (pintype 4)
+     (Name NC#20)
+     (Number 20)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N02222)
+     (Order 19)
+     ("Is No Connect" False)))
+   (pin 999 21
+    (property 
+     (pinname NC#21)
+     (pintype 4)
+     (Name NC#21)
+     (Number 21)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N02222)
+     (Order 20)
+     ("Is No Connect" False)))
+   (pin 999 22
+    (property 
+     (pinname ANA_VDD2)
+     (pintype 7)
+     (Name ANA_VDD2)
+     (Number 22)
+     ("Swap Id" "-1")
+     (Type Power)
+     ("Net Name" N02222)
+     (Order 21)
+     ("Is No Connect" False)))
+   (pin 999 23
+    (property 
+     (pinname MIX2_IPP)
+     (pintype 0)
+     (Name MIX2_IPP)
+     (Number 23)
+     ("Swap Id" "-1")
+     (Type Input)
+     ("Net Name" N02222)
+     (Order 22)
+     ("Is No Connect" False)))
+   (pin 999 24
+    (property 
+     (pinname MIX2_IPN)
+     (pintype 0)
+     (Name MIX2_IPN)
+     (Number 24)
+     ("Swap Id" "-1")
+     (Type Input)
+     ("Net Name" N02222)
+     (Order 23)
+     ("Is No Connect" False)))
+   (pin 999 25
+    (property 
+     (pinname GPO3/FM)
+     (pintype 1)
+     (Name GPO3/FM)
+     (Number 25)
+     ("Swap Id" "-1")
+     (Type Bidirectional)
+     ("Net Name" N02376)
+     (Order 24)
+     ("Is No Connect" False)))
+   (pin 999 26
+    (property 
+     (pinname GPO4/LD/DO)
+     (pintype 2)
+     (Name GPO4/LD/DO)
+     (Number 26)
+     ("Swap Id" "-1")
+     (Type Output)
+     ("Net Name" N02376)
+     (Order 25)
+     ("Is No Connect" False)))
+   (pin 999 27
+    (property 
+     (pinname MIX2_OPN)
+     (pintype 2)
+     (Name MIX2_OPN)
+     (Number 27)
+     ("Swap Id" "-1")
+     (Type Output)
+     ("Net Name" N02376)
+     (Order 26)
+     ("Is No Connect" False)))
+   (pin 999 28
+    (property 
+     (pinname MIX2_OPP)
+     (pintype 2)
+     (Name MIX2_OPP)
+     (Number 28)
+     ("Swap Id" "-1")
+     (Type Output)
+     ("Net Name" N02376)
+     (Order 27)
+     ("Is No Connect" False)))
+   (pin 999 29
+    (property 
+     (pinname RESETX)
+     (pintype 1)
+     (Name RESETX)
+     (Number 29)
+     ("Swap Id" "-1")
+     (Type Bidirectional)
+     ("Net Name" N02376)
+     (Order 28)
+     ("Is No Connect" False)))
+   (pin 999 30
+    (property 
+     (pinname ENX)
+     (pintype 1)
+     (Name ENX)
+     (Number 30)
+     ("Swap Id" "-1")
+     (Type Bidirectional)
+     ("Net Name" N02376)
+     (Order 29)
+     ("Is No Connect" False)))
+   (pin 999 31
+    (property 
+     (pinname SCLK)
+     (pintype 0)
+     (Name SCLK)
+     (Number 31)
+     ("Swap Id" "-1")
+     (Type Input)
+     ("Net Name" N02376)
+     (Order 30)
+     ("Is No Connect" False)))
+   (pin 999 32
+    (property 
+     (pinname SDATA)
+     (pintype 0)
+     (Name SDATA)
+     (Number 32)
+     ("Swap Id" "-1")
+     (Type Input)
+     ("Net Name" N02376)
+     (Order 31)
+     ("Is No Connect" False)))
+   (pin 999 A
+    (property 
+     (pinname EPAD)
+     (pintype 7)
+     (Name EPAD)
+     (Number A)
+     ("Swap Id" "-1")
+     (Type Power)
+     ("Net Name" N02222)
+     (Order 32)
+     ("Is No Connect" False))))
+  (image CAPACITOR_1
+   (property 
+    (sourcelib E:\\203\\CMS_CLIENT203\\CMS_SERVER\\CDS\\CDSSYM\\TEST.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)
+     (Name 1)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N01363)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)
+     (Name 2)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N01502)
+     (Order 1)
+     ("Is No Connect" False))))
+  (image CAPACITOR_0
+   (property 
+    (sourcelib E:\\203\\CMS_CLIENT203\\CMS_SERVER\\CDS\\CDSSYM\\TEST.OLB))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)
+     (Name 2)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N01502)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)
+     (Name 1)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N01372)
+     (Order 1)
+     ("Is No Connect" False))))
+  (image TP_CRYSTAL
+   (property 
+    (sourcelib E:\\203\\CMS_CLIENT203\\CMS_SERVER\\CDS\\CDSSYM\\TEST.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)
+     (Name 1)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N01228)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)
+     (Name 2)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N01303)
+     (Order 1)
+     ("Is No Connect" False)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)
+     (Name 3)
+     (Number 3)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N01210)
+     (Order 2)
+     ("Is No Connect" False)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4)
+     (Name 4)
+     (Number 4)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N01285)
+     (Order 3)
+     ("Is No Connect" False))))
+  (image AD668
+   (property 
+    (sourcelib E:\\203\\CMS_CLIENT203\\CMS_SERVER\\CDS\\CDSSYM\\TEST.OLB))
+   (pin 999 2
+    (property 
+     (pinname +VS)
+     (pintype 4)
+     (Name +VS)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N01502)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 9
+    (property 
+     (pinname "GND SENSE +IN")
+     (pintype 4)
+     (Name "GND SENSE +IN")
+     (Number 9)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N01985)
+     (Order 1)
+     ("Is No Connect" False)))
+   (pin 999 16
+    (property 
+     (pinname "-VS")
+     (pintype 4)
+     (Name "-VS")
+     (Number 16)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N01992)
+     (Order 2)
+     ("Is No Connect" False)))
+   (pin 999 3
+    (property 
+     (pinname +10VOUTS)
+     (pintype 4)
+     (Name +10VOUTS)
+     (Number 3)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N02004)
+     (Order 3)
+     ("Is No Connect" False)))
+   (pin 999 1
+    (property 
+     (pinname +10VOUTF)
+     (pintype 4)
+     (Name +10VOUTF)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N02011)
+     (Order 4)
+     ("Is No Connect" False)))
+   (pin 999 14
+    (property 
+     (pinname "-10VOUTS")
+     (pintype 4)
+     (Name "-10VOUTS")
+     (Number 14)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N02015)
+     (Order 5)
+     ("Is No Connect" False)))
+   (pin 999 15
+    (property 
+     (pinname "-10VOUTF")
+     (pintype 4)
+     (Name "-10VOUTF")
+     (Number 15)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N02015)
+     (Order 6)
+     ("Is No Connect" False)))
+   (pin 999 11
+    (property 
+     (pinname NC1)
+     (pintype 4)
+     (Name NC1)
+     (Number 11)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N00969)
+     (Order 7)
+     ("Is No Connect" False)))
+   (pin 999 10
+    (property 
+     (pinname NC2)
+     (pintype 4)
+     (Name NC2)
+     (Number 10)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N00981)
+     (Order 8)
+     ("Is No Connect" False)))
+   (pin 999 4
+    (property 
+     (pinname "A3 IN")
+     (pintype 4)
+     (Name "A3 IN")
+     (Number 4)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N01068)
+     (Order 9)
+     ("Is No Connect" False)))
+   (pin 999 6
+    (property 
+     (pinname VHIGH)
+     (pintype 4)
+     (Name VHIGH)
+     (Number 6)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N01082)
+     (Order 10)
+     ("Is No Connect" False)))
+   (pin 999 12
+    (property 
+     (pinname BAL)
+     (pintype 4)
+     (Name BAL)
+     (Number 12)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N01143)
+     (Order 11)
+     ("Is No Connect" False)))
+   (pin 999 5
+    (property 
+     (pinname GAIN)
+     (pintype 4)
+     (Name GAIN)
+     (Number 5)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N01061)
+     (Order 12)
+     ("Is No Connect" False)))
+   (pin 999 8
+    (property 
+     (pinname VLOW)
+     (pintype 4)
+     (Name VLOW)
+     (Number 8)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N01228)
+     (Order 13)
+     ("Is No Connect" False)))
+   (pin 999 13
+    (property 
+     (pinname "A4 IN")
+     (pintype 4)
+     (Name "A4 IN")
+     (Number 13)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N01228)
+     (Order 14)
+     ("Is No Connect" False)))
+   (pin 999 7
+    (property 
+     (pinname NOISE)
+     (pintype 4)
+     (Name NOISE)
+     (Number 7)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N01228)
+     (Order 15)
+     ("Is No Connect" False))))
+  (image DIODE
+   (property 
+    (sourcelib E:\\203\\CMS_CLIENT203\\CMS_SERVER\\CDS\\CDSSYM\\TEST.OLB))
+   (pin 999 1
+    (property 
+     (pinname A)
+     (pintype 4)
+     (Name A)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N01285)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname K)
+     (pintype 4)
+     (Name K)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N01303)
+     (Order 1)
+     ("Is No Connect" False))))
+  (image HSG28D15_2
+   (property 
+    (sourcelib E:\\203\\CMS_CLIENT203\\CMS_SERVER\\CDS\\CDSSYM\\TEST.OLB))
+   (pin 999 3
+    (property 
+     (pinname GND_I)
+     (pintype 7)
+     (Name GND_I)
+     (Number 3)
+     ("Swap Id" "-1")
+     (Type Power)
+     ("Net Name" N01006)
+     (Order 0)
+     ("Is No Connect" False)
+     (NO_LOAD_CHECK Both)
+     (NO_IO_CHECK Both)
+     (NO_ASSERT_CHECK TRUE)
+     (NO_DIR_CHECK TRUE)
+     (ALLOW_CONNECT TRUE)))
+   (pin 999 2
+    (property 
+     (pinname VIN+)
+     (pintype 7)
+     (Name VIN+)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Power)
+     ("Net Name" N01031)
+     (Order 1)
+     ("Is No Connect" False)
+     (NO_LOAD_CHECK Both)
+     (NO_IO_CHECK Both)
+     (NO_ASSERT_CHECK TRUE)
+     (NO_DIR_CHECK TRUE)
+     (ALLOW_CONNECT TRUE)))
+   (pin 999 4
+    (property 
+     (pinname "VOUT-")
+     (pintype 7)
+     (Name "VOUT-")
+     (Number 4)
+     ("Swap Id" "-1")
+     (Type Power)
+     ("Net Name" N01210)
+     (Order 2)
+     ("Is No Connect" False)
+     (NO_LOAD_CHECK Both)
+     (NO_IO_CHECK Both)
+     (NO_ASSERT_CHECK TRUE)
+     (NO_DIR_CHECK TRUE)
+     (ALLOW_CONNECT TRUE)))
+   (pin 999 6
+    (property 
+     (pinname VOUT+)
+     (pintype 2)
+     (Name VOUT+)
+     (Number 6)
+     ("Swap Id" "-1")
+     (Type Output)
+     ("Net Name" N01198)
+     (Order 3)
+     ("Is No Connect" False)
+     (OUTPUT_LOAD "(1.0,-1.0)")))
+   (pin 999 5
+    (property 
+     (pinname GND_O)
+     (pintype 2)
+     (Name GND_O)
+     (Number 5)
+     ("Swap Id" "-1")
+     (Type Output)
+     ("Net Name" N01155)
+     (Order 4)
+     ("Is No Connect" False)
+     (OUTPUT_LOAD "(1.0,-1.0)")))
+   (pin 999 1
+    (property 
+     (pinname INH)
+     (pintype 4)
+     (Name INH)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N01061)
+     (Order 5)
+     ("Is No Connect" False)))))
+ (network
+  (net AVDD
+    (property 
+     (nettype S))
+   (pins
+     U2-4))
+  (net DVDD
+    (property 
+     (nettype S))
+   (pins
+     U2-5))
+  (net N00805
+   (pins
+     U1-1 U5-4))
+  (net N00817
+   (pins
+     U1-2 U5-3))
+  (net N00832
+   (pins
+     U1-3 U5-2))
+  (net N00847
+   (pins
+     U1-4 U5-1))
+  (net N00854
+   (pins
+     U1-8 U2-1))
+  (net N00866
+   (pins
+     U1-7 U2-2))
+  (net N00878
+   (pins
+     U1-6 U2-3))
+  (net N00893
+   (pins
+     U1-5 U2-6))
+  (net N00907
+   (pins
+     U2-7 U5-8))
+  (net N00932
+   (pins
+     U2-8 U5-7))
+  (net N00945
+   (pins
+     U2-9 U5-6))
+  (net N00957
+   (pins
+     U2-10 U5-5))
+  (net N00969
+   (pins
+     U6-1 D1-11))
+  (net N00981
+   (pins
+     U6-2 D1-10))
+  (net N01006
+   (pins
+     U6-3 N1-3
+    (property 
+     (NO_LOAD_CHECK Both)
+     (NO_IO_CHECK Both)
+     (NO_ASSERT_CHECK TRUE)
+     (NO_DIR_CHECK TRUE)
+     (ALLOW_CONNECT TRUE))))
+  (net N01031
+   (pins
+     U6-4 N1-2
+    (property 
+     (NO_LOAD_CHECK Both)
+     (NO_IO_CHECK Both)
+     (NO_ASSERT_CHECK TRUE)
+     (NO_DIR_CHECK TRUE)
+     (ALLOW_CONNECT TRUE))))
+  (net N01061
+   (pins
+     D1-5 N1-1))
+  (net N01068
+   (pins
+     U6-8 D1-4))
+  (net N01082
+   (pins
+     U6-7 D1-6))
+  (net N01143
+   (pins
+     U6-6 D1-12))
+  (net N01155
+   (pins
+     U6-5 U6-A N1-5
+    (property 
+     (OUTPUT_LOAD "(1.0,-1.0)"))))
+  (net N01198
+   (pins
+     L1-1
+    (property 
+     (NO_LOAD_CHECK Both)
+     (NO_IO_CHECK Both)
+     (NO_ASSERT_CHECK TRUE)
+     (NO_DIR_CHECK TRUE)
+     (ALLOW_CONNECT TRUE))
+     N1-6
+    (property 
+     (OUTPUT_LOAD "(1.0,-1.0)"))))
+  (net N01210
+   (pins
+     N1-4
+    (property 
+     (NO_LOAD_CHECK Both)
+     (NO_IO_CHECK Both)
+     (NO_ASSERT_CHECK TRUE)
+     (NO_DIR_CHECK TRUE)
+     (ALLOW_CONNECT TRUE))
+     G1-3))
+  (net N01228
+   (pins
+     D1-8 D1-13 D1-7 L1-2
+    (property 
+     (NO_LOAD_CHECK Both)
+     (NO_IO_CHECK Both)
+     (NO_ASSERT_CHECK TRUE)
+     (NO_DIR_CHECK TRUE)
+     (ALLOW_CONNECT TRUE))
+     G1-1))
+  (net N01285
+   (pins
+     G1-4 D2-1))
+  (net N01303
+   (pins
+     U7-9 U7-10 U7-11 U7-12 U7-13 U7-14 U7-15 U7-16 G1-2
+     D2-2))
+  (net N01321
+   (pins
+     U2-20 U3-1))
+  (net N01328
+   (pins
+     U2-18 U2-19 U3-2))
+  (net N01349
+   (pins
+     U2-17 U3-3))
+  (net N01359
+   (pins
+     U2-16 U3-4))
+  (net N01363
+   (pins
+     U2-15 C1-1))
+  (net N01372
+   (pins
+     U2-14 C2-1))
+  (net N01384
+   (pins
+     U2-13 U3-5))
+  (net N01399
+   (pins
+     U2-12 U3-6))
+  (net N01414
+   (pins
+     U2-11 U3-7))
+  (net N01429
+   (pins
+     U3-8 U4-3))
+  (net N01502
+   (pins
+     C1-2 C2-2 D1-2))
+  (net N01985
+   (pins
+     U7-1 D1-9))
+  (net N01992
+   (pins
+     U7-2 U7-3 U7-4 D1-16))
+  (net N02004
+   (pins
+     U7-5 U7-6 D1-3))
+  (net N02011
+   (pins
+     U7-7 D1-1))
+  (net N02015
+   (pins
+     U7-8 D1-14 D1-15))
+  (net N02222
+   (pins
+     U4-1 U7-17 U7-18 U7-19 U7-20 U7-21 U7-22 U7-23 U7-24
+     U7-A))
+  (net N02376
+   (pins
+     U4-2 U7-25 U7-26 U7-27 U7-28 U7-29 U7-30 U7-31 U7-32)))
+)

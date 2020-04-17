@@ -1,0 +1,82 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : ADL.brd                                       )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Tue Jan 07 16:26:39 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'E:\TEST'
+Design Directory:            'E:/709/CMS_CLIENT709/CMS_HOME/A/allegro'
+Old design name:             'E:/709/CMS_CLIENT709/CMS_HOME/A/allegro/ADL.brd'
+New design name:             'E:/709/CMS_CLIENT709/CMS_HOME/A/allegro/ADL.brd'
+
+CmdLine: netrev.exe -y 1 -n -i E:\TEST E:\709\CMS_CLIENT709\CMS_HOME\A\allegro\ADL.brd E:\709\CMS_CLIENT709\CMS_HOME\A\allegro\ADL.brd
+
+------ Preparing to read pst files ------
+
+Starting to read E:/TEST/pstchip.dat 
+   Finished reading E:/TEST/pstchip.dat (00:00:00.06)
+Starting to read E:/TEST/pstxprt.dat 
+   Finished reading E:/TEST/pstxprt.dat (00:00:00.00)
+Starting to read E:/TEST/pstxnet.dat 
+   Finished reading E:/TEST/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           D:/Cadence/SPB_16.6/share/local/pcb/modules 
+           E:\709\CMS_Client709/cms_server/CDS/TC/MDD/ 
+
+PSMPATH =  E:\709\CMS_Client709/cms_server/CDS/CDSFootprint/ 
+           E:\709\CMS_Client709/cms_server/CDS/CDSFootprint/Flash/ 
+           D:\Cadence\SPB_16.6/share/pcb/pcb_lib/symbols/symbols/ 
+
+PADPATH =  E:/709/CMS_Client709/cms_server/CDS/CDSFootprint/Pad/ 
+           C:/USERS/40375/Desktop/pad/ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Jan 7 16:26:39 2020
+   DESIGN NAME : 'ADL'
+   PACKAGING ON Feb 15 2016 19:53:59
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:04:20
+elapsed time  0:00:01
+

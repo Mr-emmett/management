@@ -1,0 +1,370 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Dec-24-2019 at 14:10:34 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='ABDCDL';
+ POST_TIME='Feb 15 2016 19:53:59';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ U1 'HMC837_QFN_40T_0R5P5R87SPR0R85X':;
+
+SECTION_NUMBER 1
+ '@ABDCDL.SCHEMATIC1(SCH_1):INS123446@IC.HMC837A.NORMAL(CHIPS)':
+ C_PATH='@abdcdl.schematic1(sch_1):ins123446@ic.\hmc837a.normal\(chips)',
+ P_PATH='@abdcdl.schematic1(sch_1):page1_ins123446@ic.\hmc837a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+PART_NAME
+ U10 'ADM4851_QFN_8T_0R5P2R915SPR0R75':;
+
+SECTION_NUMBER 1
+ '@ABDCDL.SCHEMATIC1(SCH_1):INS124715@IC.ADM4851.NORMAL(CHIPS)':
+ C_PATH='@abdcdl.schematic1(sch_1):ins124715@ic.\adm4851.normal\(chips)',
+ P_PATH='@abdcdl.schematic1(sch_1):page1_ins124715@ic.\adm4851.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U11 'ADM4853_QFN_8T_0R5P2R915SPR0R75':;
+
+SECTION_NUMBER 1
+ '@ABDCDL.SCHEMATIC1(SCH_1):INS124774@IC.ADM4853.NORMAL(CHIPS)':
+ C_PATH='@abdcdl.schematic1(sch_1):ins124774@ic.\adm4853.normal\(chips)',
+ P_PATH='@abdcdl.schematic1(sch_1):page1_ins124774@ic.\adm4853.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U12 'LTC2862A_QFN_8T_0R5P2R915SPR0R7':;
+
+SECTION_NUMBER 1
+ '@ABDCDL.SCHEMATIC1(SCH_1):INS124833@IC.LTC2862A.NORMAL(CHIPS)':
+ C_PATH='@abdcdl.schematic1(sch_1):ins124833@ic.\ltc2862a.normal\(chips)',
+ P_PATH='@abdcdl.schematic1(sch_1):page1_ins124833@ic.\ltc2862a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U13 'AVA-183A+_QFN_8T_0R66P2R97SPR0R':;
+
+SECTION_NUMBER 1
+ '@ABDCDL.SCHEMATIC1(SCH_1):INS124892@AMPLIFIER.AVA-183A+.NORMAL(CHIPS)':
+ C_PATH='@abdcdl.schematic1(sch_1):ins124892@amplifier.\ava-183a+.normal\(chips)',
+ P_PATH='@abdcdl.schematic1(sch_1):page1_ins124892@amplifier.\ava-183a+.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U14 'AD9874_QFP_48_0R5P8R66SPR1R66X0':;
+
+SECTION_NUMBER 1
+ '@ABDCDL.SCHEMATIC1(SCH_1):INS124971@IC.AD9874A.NORMAL(CHIPS)':
+ C_PATH='@abdcdl.schematic1(sch_1):ins124971@ic.\ad9874a.normal\(chips)',
+ P_PATH='@abdcdl.schematic1(sch_1):page1_ins124971@ic.\ad9874a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+PART_NAME
+ U15 'AG303-86_SMD_4_2R1P_PR1R83X1R02':;
+
+SECTION_NUMBER 1
+ '@ABDCDL.SCHEMATIC1(SCH_1):INS125105@AMPLIFIER.AG303-86.NORMAL(CHIPS)':
+ C_PATH='@abdcdl.schematic1(sch_1):ins125105@amplifier.\ag303-86.normal\(chips)',
+ P_PATH='@abdcdl.schematic1(sch_1):page1_ins125105@amplifier.\ag303-86.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U16 'HFCN-5500D+_SMD_6_0R99P2R05SPR1':;
+
+SECTION_NUMBER 1
+ '@ABDCDL.SCHEMATIC1(SCH_1):INS125144@AMPLIFIER.HFCN-5500D+.NORMAL(CHIPS)':
+ C_PATH='@abdcdl.schematic1(sch_1):ins125144@amplifier.\hfcn-5500d+.normal\(chips)',
+ P_PATH='@abdcdl.schematic1(sch_1):page1_ins125144@amplifier.\hfcn-5500d+.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U17 'ADP-2-1+_SMD_6_2R54P_PR1R65X2R5':;
+
+SECTION_NUMBER 1
+ '@ABDCDL.SCHEMATIC1(SCH_1):INS125187@IC.ADP-2-1+.NORMAL(CHIPS)':
+ C_PATH='@abdcdl.schematic1(sch_1):ins125187@ic.\adp-2-1+.normal\(chips)',
+ P_PATH='@abdcdl.schematic1(sch_1):page1_ins125187@ic.\adp-2-1+.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U18 'LTC1687_SO_14_1R27P5R47SPR2R25X':;
+
+SECTION_NUMBER 1
+ '@ABDCDL.SCHEMATIC1(SCH_1):INS125246@IC.LTC1687.NORMAL(CHIPS)':
+ C_PATH='@abdcdl.schematic1(sch_1):ins125246@ic.\ltc1687.normal\(chips)',
+ P_PATH='@abdcdl.schematic1(sch_1):page1_ins125246@ic.\ltc1687.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U19 'LTC1062_SO_16_1R27P9R61SPR2R55X':;
+
+SECTION_NUMBER 1
+ '@ABDCDL.SCHEMATIC1(SCH_1):INS125327@POWER_MANAGER.LTC1062.NORMAL(CHIPS)':
+ C_PATH='@abdcdl.schematic1(sch_1):ins125327@power_manager.\ltc1062.normal\(chips)',
+ P_PATH='@abdcdl.schematic1(sch_1):page1_ins125327@power_manager.\ltc1062.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'LMX2572LP_QFN_40T_0R5P5R87SPR0R':;
+
+SECTION_NUMBER 1
+ '@ABDCDL.SCHEMATIC1(SCH_1):INS123632@IC.LMX2572LP.NORMAL(CHIPS)':
+ C_PATH='@abdcdl.schematic1(sch_1):ins123632@ic.\lmx2572lp.normal\(chips)',
+ P_PATH='@abdcdl.schematic1(sch_1):page1_ins123632@ic.\lmx2572lp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U20 'HELA-10+_SO_16T_1R27P9R61SPR2R5':;
+
+SECTION_NUMBER 1
+ '@ABDCDL.SCHEMATIC1(SCH_1):INS125412@AMPLIFIER.HELA-10+.NORMAL(CHIPS)':
+ C_PATH='@abdcdl.schematic1(sch_1):ins125412@amplifier.\hela-10+.normal\(chips)',
+ P_PATH='@abdcdl.schematic1(sch_1):page1_ins125412@amplifier.\hela-10+.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U21 '1685FA_SO_8_1R27P5R26SPR1R95X0R':;
+
+SECTION_NUMBER 1
+ '@ABDCDL.SCHEMATIC1(SCH_1):INS125522@IC.1685FA.NORMAL(CHIPS)':
+ C_PATH='@abdcdl.schematic1(sch_1):ins125522@ic.\1685fa.normal\(chips)',
+ P_PATH='@abdcdl.schematic1(sch_1):page1_ins125522@ic.\1685fa.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U22 'ADP3303_SO_8_1R27P5R26SPR1R95X0':;
+
+SECTION_NUMBER 1
+ '@ABDCDL.SCHEMATIC1(SCH_1):INS125575@POWER_MANAGER.ADP3303.NORMAL(CHIPS)':
+ C_PATH='@abdcdl.schematic1(sch_1):ins125575@power_manager.\adp3303.normal\(chips)',
+ P_PATH='@abdcdl.schematic1(sch_1):page1_ins125575@power_manager.\adp3303.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U23 'ADM3070E_SOIC_14_1R27P5R47SPR1R':;
+
+SECTION_NUMBER 1
+ '@ABDCDL.SCHEMATIC1(SCH_1):INS125638@IC.ADM3070E.NORMAL(CHIPS)':
+ C_PATH='@abdcdl.schematic1(sch_1):ins125638@ic.\adm3070e.normal\(chips)',
+ P_PATH='@abdcdl.schematic1(sch_1):page1_ins125638@ic.\adm3070e.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U24 'BGU7003W_SON_6_0R5P1SPR0R675X0R':;
+
+SECTION_NUMBER 1
+ '@ABDCDL.SCHEMATIC1(SCH_1):INS125754@IC.BGU7003W.NORMAL(CHIPS)':
+ C_PATH='@abdcdl.schematic1(sch_1):ins125754@ic.\bgu7003w.normal\(chips)',
+ P_PATH='@abdcdl.schematic1(sch_1):page1_ins125754@ic.\bgu7003w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U25 'QPL9057_SON_8T_0R5P1R96SPR0R75X':;
+
+SECTION_NUMBER 1
+ '@ABDCDL.SCHEMATIC1(SCH_1):INS125805@AMPLIFIER.QPL9057.NORMAL(CHIPS)':
+ C_PATH='@abdcdl.schematic1(sch_1):ins125805@amplifier.\qpl9057.normal\(chips)',
+ P_PATH='@abdcdl.schematic1(sch_1):page1_ins125805@amplifier.\qpl9057.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U26 'BGA7127_SON_8T_0R5P3SPR0R85X0R2':;
+
+SECTION_NUMBER 1
+ '@ABDCDL.SCHEMATIC1(SCH_1):INS125860@IC.BGA7127.NORMAL(CHIPS)':
+ C_PATH='@abdcdl.schematic1(sch_1):ins125860@ic.\bga7127.normal\(chips)',
+ P_PATH='@abdcdl.schematic1(sch_1):page1_ins125860@ic.\bga7127.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U27 'LTC1689_SOP_16_1R27P5R2SPR2R15X':;
+
+SECTION_NUMBER 1
+ '@ABDCDL.SCHEMATIC1(SCH_1):INS125929@IC.LTC1689.NORMAL(CHIPS)':
+ C_PATH='@abdcdl.schematic1(sch_1):ins125929@ic.\ltc1689.normal\(chips)',
+ P_PATH='@abdcdl.schematic1(sch_1):page1_ins125929@ic.\ltc1689.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U28 'LT1117_SOT223_4_2R3P6R1SPR1R9X0':;
+
+SECTION_NUMBER 1
+ '@ABDCDL.SCHEMATIC1(SCH_1):INS125990@POWER_MANAGER.LT1117.NORMAL(CHIPS)':
+ C_PATH='@abdcdl.schematic1(sch_1):ins125990@power_manager.\lt1117.normal\(chips)',
+ P_PATH='@abdcdl.schematic1(sch_1):page1_ins125990@power_manager.\lt1117.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U29 'TLV704_SOT23_5_0R95P2R7S_PR1R0X':;
+
+SECTION_NUMBER 1
+ '@ABDCDL.SCHEMATIC1(SCH_1):INS126027@POWER_MANAGER.TLV704.NORMAL(CHIPS)':
+ C_PATH='@abdcdl.schematic1(sch_1):ins126027@power_manager.\tlv704.normal\(chips)',
+ P_PATH='@abdcdl.schematic1(sch_1):page1_ins126027@power_manager.\tlv704.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'TRF3722_QFN_48T_0R5P7R1SPR0R275':;
+
+SECTION_NUMBER 1
+ '@ABDCDL.SCHEMATIC1(SCH_1):INS123781@IC.TRF3722A.NORMAL(CHIPS)':
+ C_PATH='@abdcdl.schematic1(sch_1):ins123781@ic.\trf3722a.normal\(chips)',
+ P_PATH='@abdcdl.schematic1(sch_1):page1_ins123781@ic.\trf3722a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+PART_NAME
+ U30 'TPS7B4250-Q1_SOT23_5_0R95P2R7S_':;
+
+SECTION_NUMBER 1
+ '@ABDCDL.SCHEMATIC1(SCH_1):INS126066@POWER_MANAGER.TPS7B4250-Q1.NORMAL(CHIPS)':
+ C_PATH='@abdcdl.schematic1(sch_1):ins126066@power_manager.\tps7b4250-q1.normal\(chips)',
+ P_PATH='@abdcdl.schematic1(sch_1):page1_ins126066@power_manager.\tps7b4250-q1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U31 'AG203-63G_SOT363_6_0R65P1R9SPR0':;
+
+SECTION_NUMBER 1
+ '@ABDCDL.SCHEMATIC1(SCH_1):INS126107@AMPLIFIER.AG203-63G.NORMAL(CHIPS)':
+ C_PATH='@abdcdl.schematic1(sch_1):ins126107@amplifier.\ag203-63g.normal\(chips)',
+ P_PATH='@abdcdl.schematic1(sch_1):page1_ins126107@amplifier.\ag203-63g.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U32 'QPA0363A_SOT363_6_0R65P1R9SPR0R':;
+
+SECTION_NUMBER 1
+ '@ABDCDL.SCHEMATIC1(SCH_1):INS126150@AMPLIFIER.QPA0363A.NORMAL(CHIPS)':
+ C_PATH='@abdcdl.schematic1(sch_1):ins126150@amplifier.\qpa0363a.normal\(chips)',
+ P_PATH='@abdcdl.schematic1(sch_1):page1_ins126150@amplifier.\qpa0363a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U33 'NBB402_LGA_9_1R0P_PC0R5_NBB402_':;
+
+SECTION_NUMBER 1
+ '@ABDCDL.SCHEMATIC1(SCH_1):INS126199@AMPLIFIER.NBB402.NORMAL(CHIPS)':
+ C_PATH='@abdcdl.schematic1(sch_1):ins126199@amplifier.\nbb402.normal\(chips)',
+ P_PATH='@abdcdl.schematic1(sch_1):page1_ins126199@amplifier.\nbb402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U34 'TGA2218-SM_QFN_20T_0R525P_PR0R4':;
+
+SECTION_NUMBER 1
+ '@ABDCDL.SCHEMATIC1(SCH_1):INS126278@AMPLIFIER.TGA2218-SM.NORMAL(CHIPS)':
+ C_PATH='@abdcdl.schematic1(sch_1):ins126278@amplifier.\tga2218-sm.normal\(chips)',
+ P_PATH='@abdcdl.schematic1(sch_1):page1_ins126278@amplifier.\tga2218-sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U35 'TGA2512-SM_QFN_T_12_0R65P_PR0R8':;
+
+SECTION_NUMBER 1
+ '@ABDCDL.SCHEMATIC1(SCH_1):INS126373@AMPLIFIER.TGA2512-SM.NORMAL(CHIPS)':
+ C_PATH='@abdcdl.schematic1(sch_1):ins126373@amplifier.\tga2512-sm.normal\(chips)',
+ P_PATH='@abdcdl.schematic1(sch_1):page1_ins126373@amplifier.\tga2512-sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U36 'BGA3031_QFN_T_20_0R65P_PR0R8X0R':;
+
+SECTION_NUMBER 1
+ '@ABDCDL.SCHEMATIC1(SCH_1):INS126535@IC.BGA3031.NORMAL(CHIPS)':
+ C_PATH='@abdcdl.schematic1(sch_1):ins126535@ic.\bga3031.normal\(chips)',
+ P_PATH='@abdcdl.schematic1(sch_1):page1_ins126535@ic.\bga3031.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'AD9864_QFN_48T_0R5P7R27SPR1R19X':;
+
+SECTION_NUMBER 1
+ '@ABDCDL.SCHEMATIC1(SCH_1):INS123923@IC.AD9864A.NORMAL(CHIPS)':
+ C_PATH='@abdcdl.schematic1(sch_1):ins123923@ic.\ad9864a.normal\(chips)',
+ P_PATH='@abdcdl.schematic1(sch_1):page1_ins123923@ic.\ad9864a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+PART_NAME
+ U5 'ADF4371_QFN_48T_0R5P7R27SPR1R19':;
+
+SECTION_NUMBER 1
+ '@ABDCDL.SCHEMATIC1(SCH_1):INS124063@IC.ADF4371A.NORMAL(CHIPS)':
+ C_PATH='@abdcdl.schematic1(sch_1):ins124063@ic.\adf4371a.normal\(chips)',
+ P_PATH='@abdcdl.schematic1(sch_1):page1_ins124063@ic.\adf4371a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+PART_NAME
+ U6 'ADF4372_QFN_48T_0R5P7R27SPR1R19':;
+
+SECTION_NUMBER 1
+ '@ABDCDL.SCHEMATIC1(SCH_1):INS124187@IC.ADF4372A.NORMAL(CHIPS)':
+ C_PATH='@abdcdl.schematic1(sch_1):ins124187@ic.\adf4372a.normal\(chips)',
+ P_PATH='@abdcdl.schematic1(sch_1):page1_ins124187@ic.\adf4372a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+PART_NAME
+ U7 'AD9911_QFN_56T_0R5P7R92SPR0R95X':;
+
+SECTION_NUMBER 1
+ '@ABDCDL.SCHEMATIC1(SCH_1):INS124317@IC.AD9911A.NORMAL(CHIPS)':
+ C_PATH='@abdcdl.schematic1(sch_1):ins124317@ic.\ad9911a.normal\(chips)',
+ P_PATH='@abdcdl.schematic1(sch_1):page1_ins124317@ic.\ad9911a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+PART_NAME
+ U8 'ADRF6821_QFN_56T_0R5P8R02SPR0R9':;
+
+SECTION_NUMBER 1
+ '@ABDCDL.SCHEMATIC1(SCH_1):INS124435@IC.ADRF6821A.NORMAL(CHIPS)':
+ C_PATH='@abdcdl.schematic1(sch_1):ins124435@ic.\adrf6821a.normal\(chips)',
+ P_PATH='@abdcdl.schematic1(sch_1):page1_ins124435@ic.\adrf6821a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+PART_NAME
+ U9 'ADC32RF82_QFN_72T_0R5P10SPR0R85':;
+
+SECTION_NUMBER 1
+ '@ABDCDL.SCHEMATIC1(SCH_1):INS124547@IC.ADC32RF82A.NORMAL(CHIPS)':
+ C_PATH='@abdcdl.schematic1(sch_1):ins124547@ic.\adc32rf82a.normal\(chips)',
+ P_PATH='@abdcdl.schematic1(sch_1):page1_ins124547@ic.\adc32rf82a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+END.

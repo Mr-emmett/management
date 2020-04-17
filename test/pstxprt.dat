@@ -1,0 +1,60 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Jan-07-2020 at 16:26:35 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='ADL';
+ POST_TIME='Feb 15 2016 19:53:59';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ L1 'INDUCTOR_5030_2P8MM_SPM5030_1R5':;
+
+SECTION_NUMBER 1
+ '@ADL.SCHEMATIC1(SCH_1):INS89@LIBRARY.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@adl.schematic1(sch_1):ins89@\library\.\inductor.normal\(chips)',
+ P_PATH='@adl.schematic1(sch_1):page1_ins89@\library\.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SW_PB_SPST_SW_K06_E_C_SW_PB_SPS':;
+
+SECTION_NUMBER 1
+ '@ADL.SCHEMATIC1(SCH_1):INS114@LIBRARY.SW_PB_SPST.NORMAL(CHIPS)':
+ C_PATH='@adl.schematic1(sch_1):ins114@\library\.\sw_pb_spst.normal\(chips)',
+ P_PATH='@adl.schematic1(sch_1):page1_ins114@\library\.\sw_pb_spst.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'LMX358_SOIC8_MAX4292ESA_1500000':;
+
+SECTION_NUMBER 1
+ '@ADL.SCHEMATIC1(SCH_1):INS52@LIBRARY.LMX358.NORMAL(CHIPS)':
+ C_PATH='@adl.schematic1(sch_1):ins52@\library\.\lmx358.normal\(chips)',
+ P_PATH='@adl.schematic1(sch_1):page1_ins52@\library\.\lmx358.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'IC_14P_74LVC08ADB_SSOP_14_0R65P':;
+
+SECTION_NUMBER 1
+ '@ADL.SCHEMATIC1(SCH_1):INS163@IC_2.IC_14P_74LVC08ADB.NORMAL(CHIPS)':
+ C_PATH='@adl.schematic1(sch_1):ins163@ic_2.\ic_14p_74lvc08adb.normal\(chips)',
+ P_PATH='@adl.schematic1(sch_1):page1_ins163@ic_2.\ic_14p_74lvc08adb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'CYS_2P_CM519_CYS_SMD_2_PR1R3X2R':;
+
+SECTION_NUMBER 1
+ '@ADL.SCHEMATIC1(SCH_1):INS216@CRYSTAL.CYS_2P_CM519.NORMAL(CHIPS)':
+ C_PATH='@adl.schematic1(sch_1):ins216@crystal.\cys_2p_cm519.normal\(chips)',
+ P_PATH='@adl.schematic1(sch_1):page1_ins216@crystal.\cys_2p_cm519.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

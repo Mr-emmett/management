@@ -1,0 +1,26 @@
+\t (00:00:03) allegro 16.6-2015 S112 (v16-6-112JB) Windows 32
+\t (00:00:03)     Journal start - Wed Nov 27 10:16:53 2019
+\t (00:00:03)         Host=EMMETT User=40375 Pid=15044 CPUs=8
+\t (00:00:03) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:06) Starting new design...
+\i (00:00:07) trapsize 968
+\i (00:00:07) trapsize 942
+\i (00:00:07) trapsize 972
+\i (00:00:07) trapsize 985
+\i (00:00:07) trapsize 1284
+\i (00:00:07) trapsize 1731
+\i (00:00:08) shapeedit 
+\i (00:00:09) open 
+\e (00:00:09) Do you want to save the changes you made to unnamed.brd?
+\i (00:00:11) fillin no 
+\i (00:00:33) fillin "E:\289_20190918´ý·¢\footprint\sot363_6_0r65p1r9spr0r648x0r38.dra"
+\i (00:00:33) cd "E:\289_20190918´ý·¢\footprint"
+\t (00:00:33) Opening existing design...
+\i (00:00:33) trapsize 399
+\i (00:00:33) trapsize 376
+\i (00:00:33) trapsize 392
+\i (00:00:34) trapsize 311
+\i (00:00:34) trapsize 718
+\t (00:00:34)     Journal end - Wed Nov 27 10:17:25 2019

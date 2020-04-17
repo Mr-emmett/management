@@ -1,0 +1,150 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Nov-27-2019 at 11:48:34 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='DESIGN3';
+ POST_TIME='Feb 15 2016 19:53:59';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAPACITOR_1_CAPC0805_0135MM_1_C':;
+
+SECTION_NUMBER 1
+ '@DESIGN3.SCHEMATIC1(SCH_1):INS394@TEST.CAPACITOR_1.NORMAL(CHIPS)':
+ C_PATH='@design3.schematic1(sch_1):ins394@test.\capacitor_1.normal\(chips)',
+ P_PATH='@design3.schematic1(sch_1):page1_ins394@test.\capacitor_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAPACITOR_0_CAPC0603_0090MM_3_C':;
+
+SECTION_NUMBER 1
+ '@DESIGN3.SCHEMATIC1(SCH_1):INS419@TEST.CAPACITOR_0.NORMAL(CHIPS)':
+ C_PATH='@design3.schematic1(sch_1):ins419@test.\capacitor_0.normal\(chips)',
+ P_PATH='@design3.schematic1(sch_1):page1_ins419@test.\capacitor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'AD668_DIP16_C_AD668_15000000003':;
+
+SECTION_NUMBER 1
+ '@DESIGN3.SCHEMATIC1(SCH_1):INS631@TEST.AD668.NORMAL(CHIPS)':
+ C_PATH='@design3.schematic1(sch_1):ins631@test.\ad668.normal\(chips)',
+ P_PATH='@design3.schematic1(sch_1):page1_ins631@test.\ad668.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'DIODE_D2-10A_DIODE_150000000056':;
+
+SECTION_NUMBER 1
+ '@DESIGN3.SCHEMATIC1(SCH_1):INS791@TEST.DIODE.NORMAL(CHIPS)':
+ C_PATH='@design3.schematic1(sch_1):ins791@test.\diode.normal\(chips)',
+ P_PATH='@design3.schematic1(sch_1):page1_ins791@test.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ G1 'TP_CRYSTAL_OSCSC4Q0720X0520X018':;
+
+SECTION_NUMBER 1
+ '@DESIGN3.SCHEMATIC1(SCH_1):INS762@TEST.TP_CRYSTAL.NORMAL(CHIPS)':
+ C_PATH='@design3.schematic1(sch_1):ins762@test.\tp_crystal.normal\(chips)',
+ P_PATH='@design3.schematic1(sch_1):page1_ins762@test.\tp_crystal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_BEAD_2_RESC0603_0060MM':;
+
+SECTION_NUMBER 1
+ '@DESIGN3.SCHEMATIC1(SCH_1):INS684@TEST.INDUCTOR_BEAD_2.NORMAL(CHIPS)':
+ C_PATH='@design3.schematic1(sch_1):ins684@test.\inductor_bead_2.normal\(chips)',
+ P_PATH='@design3.schematic1(sch_1):page1_ins684@test.\inductor_bead_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ N1 'HSG28D15_2_DCDC-10V_HSG28D15_2_':;
+
+SECTION_NUMBER 1
+ '@DESIGN3.SCHEMATIC1(SCH_1):INS717@TEST.HSG28D15_2.NORMAL(CHIPS)':
+ C_PATH='@design3.schematic1(sch_1):ins717@test.\hsg28d15_2.normal\(chips)',
+ P_PATH='@design3.schematic1(sch_1):page1_ins717@test.\hsg28d15_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 '1685FA_SO_8_1R27P5R26SPR1R95X0R':;
+
+SECTION_NUMBER 1
+ '@DESIGN3.SCHEMATIC1(SCH_1):INS52@IC.1685FA.NORMAL(CHIPS)':
+ C_PATH='@design3.schematic1(sch_1):ins52@ic.\1685fa.normal\(chips)',
+ P_PATH='@design3.schematic1(sch_1):page1_ins52@ic.\1685fa.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'AD9834_TSSOP_20_0R65P5R94SPR1R7':;
+
+SECTION_NUMBER 1
+ '@DESIGN3.SCHEMATIC1(SCH_1):INS129@IC.AD9834.NORMAL(CHIPS)':
+ C_PATH='@design3.schematic1(sch_1):ins129@ic.\ad9834.normal\(chips)',
+ P_PATH='@design3.schematic1(sch_1):page1_ins129@ic.\ad9834.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'ADM3483E_SOIC_8_1R27P5R24SPR1R9':;
+
+SECTION_NUMBER 1
+ '@DESIGN3.SCHEMATIC1(SCH_1):INS210@IC.ADM3483E.NORMAL(CHIPS)':
+ C_PATH='@design3.schematic1(sch_1):ins210@ic.\adm3483e.normal\(chips)',
+ P_PATH='@design3.schematic1(sch_1):page1_ins210@ic.\adm3483e.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'BGA7024_SOT89_3_1R5P_PR1R55X0R7':;
+
+SECTION_NUMBER 1
+ '@DESIGN3.SCHEMATIC1(SCH_1):INS253@IC.BGA7024.NORMAL(CHIPS)':
+ C_PATH='@design3.schematic1(sch_1):ins253@ic.\bga7024.normal\(chips)',
+ P_PATH='@design3.schematic1(sch_1):page1_ins253@ic.\bga7024.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'HCPL-5150_DIP_8_2R54P7R79SPC1R3':;
+
+SECTION_NUMBER 1
+ '@DESIGN3.SCHEMATIC1(SCH_1):INS294@IC.HCPL-5150.NORMAL(CHIPS)':
+ C_PATH='@design3.schematic1(sch_1):ins294@ic.\hcpl-5150.normal\(chips)',
+ P_PATH='@design3.schematic1(sch_1):page1_ins294@ic.\hcpl-5150.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'LTC2862A_QFN_8T_0R5P2R915SPR0R7':;
+
+SECTION_NUMBER 1
+ '@DESIGN3.SCHEMATIC1(SCH_1):INS349@IC.LTC2862A.NORMAL(CHIPS)':
+ C_PATH='@design3.schematic1(sch_1):ins349@ic.\ltc2862a.normal\(chips)',
+ P_PATH='@design3.schematic1(sch_1):page1_ins349@ic.\ltc2862a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'RFFC2071_QFN_32T_0R5P5R07SPR0R8':;
+
+SECTION_NUMBER 1
+ '@DESIGN3.SCHEMATIC1(SCH_1):INS506@IC.RFFC2071.NORMAL(CHIPS)':
+ C_PATH='@design3.schematic1(sch_1):ins506@ic.\rffc2071.normal\(chips)',
+ P_PATH='@design3.schematic1(sch_1):page1_ins506@ic.\rffc2071.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

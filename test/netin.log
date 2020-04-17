@@ -1,0 +1,447 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro NETLIST IN Log File                                      )
+(                                                                     )
+(    Drawing          : abc.brd                                       )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Wed Nov 27 10:09:15 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Wed Nov 27 10:09:15 2019				Page     1
+
+
+
+
+Netlist File: 'E:/test/eco.txt'      Physical Design File: 'E:/TEST/abc.brd'
+
+===========================================================
+
+|-----------------------------------------------------------------------------~
+-|
+|                                 ECO   REPORT                                ~
+ |
+|                                                                    Page   1 ~
+ |
+|-----------------------------------------------------------------------------~
+-|
+|  E:/TEST/abc.brd                                                            ~
+ |
+|                                                    Wed Nov 27 10:04:25 2019 ~
+ |
+|-----------------------------------------------------------------------------~
+-|
+| NET CHANGES                                                                 ~
+ |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+ |
+|   net  name |  type of change |                net     pins                 ~
+ |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+ |
+  ANA_VDD1     pins ADDED TO this new net
+                                 U7.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+  ANA_VDD2     pins ADDED TO this new net
+                                 U7.22          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+  DIG_VDD      pins ADDED TO this new net
+                                 U7.19          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+  EPAD         pins ADDED TO this new net
+                                 U7.A           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+  GND1         pins ADDED TO this new net
+                                 U2.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+  GND2         pins ADDED TO this new net
+                                 U2.2           U2.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+  GND          pins ADDED TO this new net
+                                 U1.5           
+Wed Nov 27 10:09:15 2019				Page     2
+
+
+
+
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+  N01124       pins ADDED TO this new net
+                                 U1.1           X1.46          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+  N01144       pins ADDED TO this new net
+                                 U1.2           X1.47          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+  N01156       pins ADDED TO this new net
+                                 U1.3           U3.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+  N01163       pins ADDED TO this new net
+                                 U1.4           U3.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+  N01178       pins ADDED TO this new net
+                                 U1.6           U7.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+  N01190       pins ADDED TO this new net
+                                 U2.1           U7.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+  N01204       pins ADDED TO this new net
+                                 U2.6           U7.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+  N01219       pins ADDED TO this new net
+                                 U3.6           U7.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+|----------------------------------------------------------------------------~
+--|
+|                                 ECO   REPORT                                ~
+ |
+|                                                                    Page   2 ~
+ |
+|-----------------------------------------------------------------------------~
+-|
+|  E:/TEST/abc.brd                                                            ~
+ |
+|                                                    Wed Nov 27 10:04:25 2019 ~
+ |
+|-----------------------------------------------------------------------------~
+-|
+| NET CHANGES                                                                 ~
+ |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+ |
+Wed Nov 27 10:09:15 2019				Page     3
+
+
+
+
+|   net  name |  type of change |                net     pins                 ~
+ |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+ |
+  N01225       pins ADDED TO this new net
+                                 U3.4           U7.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+  N01264       pins ADDED TO this new net
+                                 C1.1           U7.9           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+  N01271       pins ADDED TO this new net
+                                 C1.2           R1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+  N01278       pins ADDED TO this new net
+                                 R1.2           R2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+  N01290       pins ADDED TO this new net
+                                 R2.1           R3.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+  N01302       pins ADDED TO this new net
+                                 L1.1           R3.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+  N01320       pins ADDED TO this new net
+                                 L1.2           U4.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+  N01327       pins ADDED TO this new net
+                                 U4.2           U6.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+  N01343       pins ADDED TO this new net
+                                 U4.1           U6.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+  N01356       pins ADDED TO this new net
+                                 U5.7           U6.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+  N01363       pins ADDED TO this new net
+                                 D1.7           U5.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+  N01367       pins ADDED TO this new net
+                                 D1.5           U5.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+Wed Nov 27 10:09:15 2019				Page     4
+
+
+
+
+  N01371       pins ADDED TO this new net
+                                 D1.12          U5.9           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+  N01375       pins ADDED TO this new net
+                                 D1.4           U5.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+  N01379       pins ADDED TO this new net
+                                 D1.11          U5.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+|----------------------------------------------------------------------------~
+--|
+|                                 ECO   REPORT                                ~
+ |
+|                                                                    Page   3 ~
+ |
+|-----------------------------------------------------------------------------~
+-|
+|  E:/TEST/abc.brd                                                            ~
+ |
+|                                                    Wed Nov 27 10:04:25 2019 ~
+ |
+|-----------------------------------------------------------------------------~
+-|
+| NET CHANGES                                                                 ~
+ |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+ |
+|   net  name |  type of change |                net     pins                 ~
+ |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+ |
+  N01383       pins ADDED TO this new net
+                                 D1.10          U5.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+  N01387       pins ADDED TO this new net
+                                 N1.3           U5.11          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+  N01394       pins ADDED TO this new net
+                                 N1.2           U5.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+  N01406       pins ADDED TO this new net
+                                 N1.1           U5.12          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+  N01418       pins ADDED TO this new net
+                                 D1.2           N1.6           
+Wed Nov 27 10:09:15 2019				Page     5
+
+
+
+
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+  N01430       pins ADDED TO this new net
+                                 D1.16          N1.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+  N01442       pins ADDED TO this new net
+                                 D1.1           N1.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+  N01454       pins ADDED TO this new net
+                                 U5.10          X1.73          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+  N01458       pins ADDED TO this new net
+                                 U5.6           X1.74          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+  TM           pins ADDED TO this new net
+                                 U7.12          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+  
+  VCC          pins ADDED TO this new net
+                                 U1.8           
+|----------------------------------------------------------------------------~
+--|
+|                                 ECO   REPORT                                ~
+ |
+|                                                                    Page   4 ~
+ |
+|-----------------------------------------------------------------------------~
+-|
+|  E:/TEST/abc.brd                                                            ~
+ |
+|                                                    Wed Nov 27 10:04:25 2019 ~
+ |
+|-----------------------------------------------------------------------------~
+-|
+| COMPONENT DEFINITION added to design                                        ~
+ |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+ |
+|    device type                                                              ~
+ |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+ |
+ AD668_DIP16_C_AD668_15000000003
+ ADM1487E_SOIC_8_1R27P5R24SPR1R9
+ ADP-2-1+_SMD_6_2R54P_PR1R65X2R5
+ BGA2870_SOT363_6_0R65P1R9SPR0R6
+ CAPACITOR_0_CAPC0603_0090MM_3_C
+ HSG28D15_2_DCDC-10V_HSG28D15_2_
+Wed Nov 27 10:09:15 2019				Page     6
+
+
+
+
+ INDUCTOR_BEAD_1_RESC0603_0060MM
+ J30J_66ZKW_J_1_CON_J30J-74ZKW-J
+ MMG20241H_SOT89_3_1R5P_PR1R55X0
+ MMG38151B_SOT89_3_1R5P_PR1R55X0
+ MT28515T_CASE_J1_MT28515T_15000
+ RESISTOR_0_RESC0603_0060MM_1_RE
+ RESISTOR_0_RESC0603_0060MM_1__1
+ RESISTOR_D4_RESCA8Q0320X0160X00
+ RFFC2071_QFN_32T_0R5P5R07SPR0R8
+|----------------------------------------------------------------------------~
+--|
+|                                 ECO   REPORT                                ~
+ |
+|                                                                    Page   5 ~
+ |
+|-----------------------------------------------------------------------------~
+-|
+|  E:/TEST/abc.brd                                                            ~
+ |
+|                                                    Wed Nov 27 10:04:25 2019 ~
+ |
+|-----------------------------------------------------------------------------~
+-|
+| COMPONENTS ADDED to design                                                  ~
+ |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+ |
+|    ref des        |    device type                                          ~
+ |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+ |
+ C1                  CAPACITOR_0_CAPC0603_0090MM_3_C 
+ D1                  AD668_DIP16_C_AD668_15000000003 
+ L1                  INDUCTOR_BEAD_1_RESC0603_0060MM 
+ N1                  HSG28D15_2_DCDC-10V_HSG28D15_2_ 
+ R1                  RESISTOR_0_RESC0603_0060MM_1_RE 
+ R2                  RESISTOR_0_RESC0603_0060MM_1__1 
+ R3                  RESISTOR_D4_RESCA8Q0320X0160X00 
+ U1                  ADM1487E_SOIC_8_1R27P5R24SPR1R9 
+ U2                  BGA2870_SOT363_6_0R65P1R9SPR0R6 
+ U3                  ADP-2-1+_SMD_6_2R54P_PR1R65X2R5 
+ U4                  MMG20241H_SOT89_3_1R5P_PR1R55X0 
+ U5                  MT28515T_CASE_J1_MT28515T_15000 
+ U6                  MMG38151B_SOT89_3_1R5P_PR1R55X0 
+ U7                  RFFC2071_QFN_32T_0R5P5R07SPR0R8 
+ X1                  J30J_66ZKW_J_1_CON_J30J-74ZKW-J 
+|----------------------------------------------------------------------------~
+--|
+|                                 ECO   REPORT                                ~
+ |
+|                                                                    Page   6 ~
+ |
+Wed Nov 27 10:09:15 2019				Page     7
+
+
+
+
+|-----------------------------------------------------------------------------~
+-|
+|  E:/TEST/abc.brd                                                            ~
+ |
+|                                                    Wed Nov 27 10:04:25 2019 ~
+ |
+|-----------------------------------------------------------------------------~
+-|
+| SLOT PROPERTIES added to design                                             ~
+ |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+ |
+|   slot_id    |   x   |   y   |   property   |             value             ~
+ |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -~
+ |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ D1.8                           PRIM_FILE      .\pstchip.dat
+ L1.2                           PRIM_FILE      .\pstchip.dat
+ N1.4                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.8                           PRIM_FILE      .\pstchip.dat
+ U1.8                           PRIM_FILE      .\pstchip.dat
+ U2.1                           PRIM_FILE      .\pstchip.dat
+ U3.1                           PRIM_FILE      .\pstchip.dat
+ U4.3                           PRIM_FILE      .\pstchip.dat
+ U5.1                           PRIM_FILE      .\pstchip.dat
+ U6.3                           PRIM_FILE      .\pstchip.dat
+ U7.12                          PRIM_FILE      .\pstchip.dat
+ X1.9                           PRIM_FILE      .\pstchip.dat
+|-----------------------------------------------------------------------------~
+-|
+|       Nets changed          :      74                                       ~
+ |
+|       Comp definitions added:      15                                       ~
+ |
+|       Components added      :      15                                       ~
+ |
+|       Slot property added   :      15                                       ~
+ |
+|                                                                             ~
+ |
+|   Total ECO changes reported:     119                                       ~
+ |
+|-----------------------------------------------------------------------------~
+-|
+
+
+
+===========================================================
+Starting gate assignment.     Wed Nov 27 10:09:15 2019
+ 
+Assigning gates of drawing E:/TEST/abc.brd
+
+Gates of differing rooms will not be assigned to the same component. 
+
+Gate assignment will use empty slots in existing components. 
+
+
+STEP I
+
+
+STEP II
+
+Finished with gate assignment.     Wed Nov 27 10:09:15 2019
+ 
+===========================================================
+
+===========================================================
+End of NETLIST IN Syntax/Logic Check
+===========================================================
+
+Wed Nov 27 10:09:15 2019				Page     8
+
+
+
+
+Total Netlist Warnings =  0.
+Total Netlist Errors   =  0.
+
+===========================================================
+
+Total Combined Netlist and Device File Warnings =  0.
+Total Combined Netlist and Device File Errors   =  0.
+
+===========================================================
+End of Allegro NETLIST IN Log
+===========================================================
